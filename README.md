@@ -1,2 +1,1 @@
-# neurongaragesale-dotcom
-source for personal website
+todo add readme
